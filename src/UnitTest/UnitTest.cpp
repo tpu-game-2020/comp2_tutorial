@@ -10,7 +10,7 @@ namespace UnitTest
 	{
 	public:
 		
-		TEST_METHOD(ÉeÉXÉgä÷êîÇªÇÃÇP)
+		TEST_METHOD(UnitMethod1)
 		{
 			Assert::AreEqual("Hello world!", HelloWorld());
 		}
