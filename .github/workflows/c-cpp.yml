@@ -18,13 +18,13 @@ jobs:
       uses: warrenbuckley/Setup-Nuget@v1
 
     - name: Nuget restore
-      run: nuget restore src/main.sln
+      run: nuget restore src/src.sln
       
     - name: Setup MSBuild.exe
       uses: warrenbuckley/Setup-MSBuild@v1
 
     - name: MSBuild
-      run: msbuild src/main.sln
+      run: msbuild src/src.sln
       
     - name: Setup VSTest.exe
       uses: Malcolmnixon/Setup-VSTest@v3
