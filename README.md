@@ -7,7 +7,8 @@
 実装して、ユニットテストが通るようにしてください。
 
 
-[![Actions Status](https://github.com/hasegawasouma/comp2_tutorial/workflows/MSTest/badge.svg)](https://github.com/hasegawasouma/comp2_tutorial/actions)　
+[![Actions Status](https://github.com/hasegawasouma/comp2_tutorial/workflows/MSTest/badge.svg)](https://github.com/hasegawasouma/comp2_tutorial/actions)
+
 
 （このファイルの上の行の[tpu-game-2020]の部分(2か所)を自分のアカウント名に修正してください）
 
