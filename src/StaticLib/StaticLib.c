@@ -5,5 +5,5 @@
 
 const char *HelloWorld()
 {
-	return "Hello world!";
+	return "Hello world";
 }
